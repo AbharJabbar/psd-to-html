@@ -1,0 +1,11 @@
+body {
+  background-color: #white;
+  font-family: "Montserrat", sans-serif;
+}
+.customIcon {
+  font-size: 25px;
+  margin-top: 25px;
+  margin-bottom: 25px;
+  padding-left: 300px;
+  content-align: end;
+}
